@@ -1,1 +1,4 @@
-# vj0246.github.io gaffffur
+#
+
+
+Welcome to my personal portfolio website, where I showcase my projects, skills, and journey in computer engineering and data science. This site highlights my hands-on experience with Python, machine learning, data analysis, and full-stack development, along with selected academic and personal projects. Each project reflects my focus on solving real-world problems through clean code, meaningful data insights, and practical implementation. I am constantly learning, building, and improving, and this page serves as a living record of my growth as a developer and engineer.
